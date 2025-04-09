@@ -3,9 +3,9 @@
 Simple Job Boarding Flutter App
 
 Tech Used:- 
-Flutter
-BLoC
-MVVM
-Freezed
-Dio for APIs integration
+Flutter,
+BLoC,
+MVVM,
+Freezed,
+Dio for APIs integration,
 Toggel Themes (Dark Mode + Light Mode)
